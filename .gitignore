@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+.venv-linux/
+__pycache__/
+*.pyc
+
+# Generated caches
+.ipynb_checkpoints/
+
+# Generated graph databases
+heterographs_tracenode/*.db
+
+# OS/editor
+.vscode/
+.idea/
+.DS_Store
